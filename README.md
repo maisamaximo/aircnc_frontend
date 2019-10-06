@@ -21,6 +21,8 @@ Aircnc is a custom clone that aims to apply the knowledge and technologies used 
 
 <h3 align="center"> Fist of all, you must run the backend application: <a href="https://github.com/maisamaximo/aircnc_backend">aircnc_backend</a> </h3>
 
+<img src="./img/front.png">
+
 ## Clone de project
 ```sh
 git clone https://github.com/maisamaximo/aircnc_frontend.git
